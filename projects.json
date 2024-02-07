@@ -1,0 +1,43 @@
+[ 
+    { 
+        "name": "Guess Who",
+        "live": "https://fancy-pegasus-21d2c1.netlify.app/",
+        "git": "https://github.com/salasousi/Guess-who-game",
+        "image": "https://user-images.githubusercontent.com/102608394/206585487-86d32d9b-4c04-4050-a20a-bbdbd9adf3b1.png" 
+    },
+
+    { 
+        "name": "Fantasy Bachelor",
+        "live": "https://fantasy-bachelor.herokuapp.com",
+        "git": "https://github.com/salasousi/fantasy-bach",
+        "image": "https://user-images.githubusercontent.com/102608394/211991417-8f5b5aeb-8399-4679-8488-44141d6cd00e.png"
+    },
+
+    { 
+        "name": "Cat Blog",
+        "live": "",
+        "git": "",
+        "image": ""
+    },
+
+    { 
+        "name": "Landscaper Website",
+        "live": "",
+        "git": "",
+        "image": ""
+    },
+
+    { 
+        "name": "Cloud Closet",
+        "live": "https://cloudcloset.herokuapp.com",
+        "git": "https://github.com/salasousi/cloudcloset",
+        "image": "https://user-images.githubusercontent.com/102608394/218477882-64927dca-2866-42e6-9111-72170650f6a3.png"
+    },
+
+    { 
+        "name": "Techfolio",
+        "live": "",
+        "git": "",
+        "image": ""
+    }
+ ]
