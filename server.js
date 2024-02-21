@@ -6,14 +6,16 @@ const cors = require("cors");
 const projects = require("./projects.json"); 
 const about = require("./about.json"); 
 
-// Create our app object
+// Create app object
 const app = express(); 
 
 // set up middleware
 app.use(cors());
 
-//home route for testing our app 
-app.get("/", (req, res) => { res.send("Hello World"); }); 
+//home route for testing 
+app.get("/", (req, res) => { 
+    res.send("Hello World"); 
+}); 
 
 // route for retrieving projects 
 app.get("/projects", (req, res) => { 
